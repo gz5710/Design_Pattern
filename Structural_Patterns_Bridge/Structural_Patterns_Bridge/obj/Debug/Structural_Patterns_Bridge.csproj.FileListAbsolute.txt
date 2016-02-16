@@ -1,0 +1,6 @@
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Structural_Patterns_Bridge\Structural_Patterns_Bridge\bin\Debug\Structural_Patterns_Bridge.exe.config
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Structural_Patterns_Bridge\Structural_Patterns_Bridge\bin\Debug\Structural_Patterns_Bridge.exe
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Structural_Patterns_Bridge\Structural_Patterns_Bridge\bin\Debug\Structural_Patterns_Bridge.pdb
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Structural_Patterns_Bridge\Structural_Patterns_Bridge\obj\Debug\Structural_Patterns_Bridge.csprojResolveAssemblyReference.cache
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Structural_Patterns_Bridge\Structural_Patterns_Bridge\obj\Debug\Structural_Patterns_Bridge.exe
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Structural_Patterns_Bridge\Structural_Patterns_Bridge\obj\Debug\Structural_Patterns_Bridge.pdb

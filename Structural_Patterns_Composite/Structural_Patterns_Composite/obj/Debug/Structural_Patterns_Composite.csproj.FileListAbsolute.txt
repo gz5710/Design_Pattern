@@ -1,0 +1,6 @@
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Structural_Patterns_Composite\Structural_Patterns_Composite\bin\Debug\Structural_Patterns_Composite.exe.config
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Structural_Patterns_Composite\Structural_Patterns_Composite\bin\Debug\Structural_Patterns_Composite.exe
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Structural_Patterns_Composite\Structural_Patterns_Composite\bin\Debug\Structural_Patterns_Composite.pdb
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Structural_Patterns_Composite\Structural_Patterns_Composite\obj\Debug\Structural_Patterns_Composite.csprojResolveAssemblyReference.cache
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Structural_Patterns_Composite\Structural_Patterns_Composite\obj\Debug\Structural_Patterns_Composite.exe
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Structural_Patterns_Composite\Structural_Patterns_Composite\obj\Debug\Structural_Patterns_Composite.pdb

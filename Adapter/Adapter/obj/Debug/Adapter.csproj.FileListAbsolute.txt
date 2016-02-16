@@ -1,0 +1,6 @@
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\bruce\Documents\Visual Studio 2015\Projects\Design Pattern\Adapter\Adapter\obj\Debug\Adapter.pdb
